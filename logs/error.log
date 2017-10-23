@@ -1,0 +1,883 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 22:43:36.648281 2017] [mpm_winnt:notice] [pid 24096:tid 508] AH00455: Apache/2.4.28 (Win64) configured -- resuming normal operations
+[Mon Oct 09 22:43:36.649282 2017] [mpm_winnt:notice] [pid 24096:tid 508] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 22:43:36.649282 2017] [core:notice] [pid 24096:tid 508] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 22:43:36.651283 2017] [mpm_winnt:notice] [pid 24096:tid 508] AH00418: Parent: Created child process 14660
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 22:43:38.837837 2017] [mpm_winnt:notice] [pid 14660:tid 552] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 22:43:45.293423 2017] [mpm_winnt:notice] [pid 24096:tid 508] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 22:43:47.294846 2017] [mpm_winnt:notice] [pid 14660:tid 552] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 22:43:47.319863 2017] [mpm_winnt:notice] [pid 24096:tid 508] AH00430: Parent: Child process 14660 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 22:46:40.998012 2017] [mpm_winnt:notice] [pid 14664:tid 480] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 09 22:46:40.999013 2017] [mpm_winnt:notice] [pid 14664:tid 480] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 22:46:40.999013 2017] [core:notice] [pid 14664:tid 480] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 22:46:41.000014 2017] [mpm_winnt:notice] [pid 14664:tid 480] AH00418: Parent: Created child process 16584
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 22:46:43.297645 2017] [mpm_winnt:notice] [pid 16584:tid 364] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 22:49:39.581094 2017] [mpm_winnt:notice] [pid 14664:tid 480] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 22:49:41.582515 2017] [mpm_winnt:notice] [pid 16584:tid 364] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 22:49:41.626548 2017] [mpm_winnt:notice] [pid 14664:tid 480] AH00430: Parent: Child process 16584 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 22:49:51.184338 2017] [mpm_winnt:notice] [pid 3432:tid 504] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 09 22:49:51.185339 2017] [mpm_winnt:notice] [pid 3432:tid 504] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 22:49:51.185339 2017] [core:notice] [pid 3432:tid 504] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 22:49:51.189342 2017] [mpm_winnt:notice] [pid 3432:tid 504] AH00418: Parent: Created child process 21120
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 22:49:53.523000 2017] [mpm_winnt:notice] [pid 21120:tid 592] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 22:49:53.528003 2017] [authz_core:error] [pid 21120:tid 1100] [client 127.0.0.1:24985] AH01630: client denied by server configuration: E:/python/web/pms/wsgi.py
+[Mon Oct 09 22:51:27.741725 2017] [authz_core:error] [pid 21120:tid 1100] [client 127.0.0.1:25073] AH01630: client denied by server configuration: E:/python/web/pms/wsgi.py
+[Mon Oct 09 22:57:18.324340 2017] [authz_core:error] [pid 21120:tid 1100] [client 127.0.0.1:25442] AH01630: client denied by server configuration: E:/python/web/pms/wsgi.py
+[Mon Oct 09 22:57:19.388096 2017] [authz_core:error] [pid 21120:tid 1100] [client 127.0.0.1:25442] AH01630: client denied by server configuration: E:/python/web/pms/wsgi.py
+[Mon Oct 09 22:57:26.525165 2017] [mpm_winnt:notice] [pid 3432:tid 504] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 22:57:28.526588 2017] [mpm_winnt:notice] [pid 21120:tid 592] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 22:57:28.607645 2017] [mpm_winnt:notice] [pid 3432:tid 504] AH00430: Parent: Child process 21120 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 22:58:26.081480 2017] [mpm_winnt:notice] [pid 21860:tid 512] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 09 22:58:26.082480 2017] [mpm_winnt:notice] [pid 21860:tid 512] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 22:58:26.082480 2017] [core:notice] [pid 21860:tid 512] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 22:58:26.083481 2017] [mpm_winnt:notice] [pid 21860:tid 512] AH00418: Parent: Created child process 21892
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 22:58:28.214996 2017] [mpm_winnt:notice] [pid 21892:tid 572] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 22:58:33.264584 2017] [authz_core:error] [pid 21892:tid 1100] [client 127.0.0.1:25452] AH01630: client denied by server configuration: E:/python/web/pms/wsgi.py
+[Mon Oct 09 22:58:34.386381 2017] [authz_core:error] [pid 21892:tid 1100] [client 127.0.0.1:25452] AH01630: client denied by server configuration: E:/python/web/pms/wsgi.py
+[Mon Oct 09 23:00:50.825444 2017] [authz_core:error] [pid 21892:tid 1100] [client 127.0.0.1:25505] AH01630: client denied by server configuration: E:/python/web/pms/wsgi.py
+[Mon Oct 09 23:04:50.661083 2017] [mpm_winnt:notice] [pid 21860:tid 512] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 23:04:52.662504 2017] [mpm_winnt:notice] [pid 21892:tid 572] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 23:04:52.750565 2017] [mpm_winnt:notice] [pid 21860:tid 512] AH00430: Parent: Child process 21892 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 23:04:58.007300 2017] [mpm_winnt:notice] [pid 25744:tid 508] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 09 23:04:58.007300 2017] [mpm_winnt:notice] [pid 25744:tid 508] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 23:04:58.007300 2017] [core:notice] [pid 25744:tid 508] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 23:04:58.009301 2017] [mpm_winnt:notice] [pid 25744:tid 508] AH00418: Parent: Created child process 27312
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 23:05:00.242889 2017] [mpm_winnt:notice] [pid 27312:tid 576] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 23:06:14.581285 2017] [mpm_winnt:notice] [pid 25744:tid 508] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 23:06:16.591713 2017] [mpm_winnt:notice] [pid 27312:tid 576] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 23:06:16.701792 2017] [mpm_winnt:notice] [pid 25744:tid 508] AH00430: Parent: Child process 27312 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 23:06:21.120931 2017] [mpm_winnt:notice] [pid 25596:tid 488] AH00455: Apache/2.4.28 (Win64) configured -- resuming normal operations
+[Mon Oct 09 23:06:21.121932 2017] [mpm_winnt:notice] [pid 25596:tid 488] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 23:06:21.121932 2017] [core:notice] [pid 25596:tid 488] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 23:06:21.125936 2017] [mpm_winnt:notice] [pid 25596:tid 488] AH00418: Parent: Created child process 25252
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 23:06:23.260280 2017] [mpm_winnt:notice] [pid 25252:tid 592] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 23:07:16.292525 2017] [mpm_winnt:notice] [pid 25596:tid 488] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 23:07:18.294946 2017] [mpm_winnt:notice] [pid 25252:tid 592] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 23:07:18.315962 2017] [mpm_winnt:notice] [pid 25596:tid 488] AH00430: Parent: Child process 25252 exited successfully.
+[Mon Oct 09 23:07:19.905092 2017] [mpm_winnt:notice] [pid 31060:tid 364] AH00455: Apache/2.4.28 (Win64) configured -- resuming normal operations
+[Mon Oct 09 23:07:19.906093 2017] [mpm_winnt:notice] [pid 31060:tid 364] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 23:07:19.906093 2017] [core:notice] [pid 31060:tid 364] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 23:07:19.907093 2017] [mpm_winnt:notice] [pid 31060:tid 364] AH00418: Parent: Created child process 24804
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 24804:tid 344] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 23:09:16.588783 2017] [mpm_winnt:notice] [pid 31060:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 23:09:18.590859 2017] [mpm_winnt:notice] [pid 24804:tid 344] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 23:09:18.613876 2017] [mpm_winnt:notice] [pid 31060:tid 364] AH00430: Parent: Child process 24804 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 23:09:47.187680 2017] [mpm_winnt:notice] [pid 24904:tid 512] AH00455: Apache/2.4.28 (Win64) configured -- resuming normal operations
+[Mon Oct 09 23:09:47.188680 2017] [mpm_winnt:notice] [pid 24904:tid 512] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 23:09:47.188680 2017] [core:notice] [pid 24904:tid 512] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 23:09:47.189681 2017] [mpm_winnt:notice] [pid 24904:tid 512] AH00418: Parent: Created child process 25028
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using fe80::c96b:5f8a:9a6c:9036. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 09 23:09:49.378236 2017] [mpm_winnt:notice] [pid 25028:tid 504] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 23:12:47.572963 2017] [mpm_winnt:notice] [pid 24904:tid 512] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 23:12:49.574385 2017] [mpm_winnt:notice] [pid 25028:tid 504] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 23:12:49.670453 2017] [mpm_winnt:notice] [pid 24904:tid 512] AH00430: Parent: Child process 25028 exited successfully.
+[Mon Oct 09 23:12:51.663870 2017] [mpm_winnt:notice] [pid 30308:tid 364] AH00455: Apache/2.4.28 (Win64) configured -- resuming normal operations
+[Mon Oct 09 23:12:51.664871 2017] [mpm_winnt:notice] [pid 30308:tid 364] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 23:12:51.664871 2017] [core:notice] [pid 30308:tid 364] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 23:12:51.665871 2017] [mpm_winnt:notice] [pid 30308:tid 364] AH00418: Parent: Created child process 27228
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 27228:tid 340] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 23:13:10.637129 2017] [mpm_winnt:notice] [pid 30308:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 23:13:12.638551 2017] [mpm_winnt:notice] [pid 27228:tid 340] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 23:13:12.663570 2017] [mpm_winnt:notice] [pid 30308:tid 364] AH00430: Parent: Child process 27228 exited successfully.
+[Mon Oct 09 23:21:13.529792 2017] [mpm_winnt:notice] [pid 28652:tid 352] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 09 23:21:13.529792 2017] [mpm_winnt:notice] [pid 28652:tid 352] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 23:21:13.529792 2017] [core:notice] [pid 28652:tid 352] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 23:21:13.531794 2017] [mpm_winnt:notice] [pid 28652:tid 352] AH00418: Parent: Created child process 32460
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 32460:tid 344] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 23:21:32.324046 2017] [wsgi:error] [pid 32460:tid 988] [client 127.0.0.1:26096] Not Found: /\r
+[Mon Oct 09 23:22:10.638819 2017] [wsgi:error] [pid 32460:tid 988] [client 127.0.0.1:26235] Session data corrupted\r
+[Mon Oct 09 23:22:11.249252 2017] [wsgi:error] [pid 32460:tid 988] [client 127.0.0.1:26235] Session data corrupted\r
+[Mon Oct 09 23:22:12.053826 2017] [wsgi:error] [pid 32460:tid 988] [client 127.0.0.1:26235] Not Found: /static/admin/css/base.css\r, referer: http://127.0.0.1:8089/admin/login/?next=/admin/
+[Mon Oct 09 23:22:12.061831 2017] [wsgi:error] [pid 32460:tid 984] [client 127.0.0.1:26245] Not Found: /static/admin/css/login.css\r, referer: http://127.0.0.1:8089/admin/login/?next=/admin/
+[Mon Oct 09 23:26:18.221146 2017] [mpm_winnt:notice] [pid 28652:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 23:26:20.222565 2017] [mpm_winnt:notice] [pid 32460:tid 344] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 23:26:20.335646 2017] [mpm_winnt:notice] [pid 28652:tid 352] AH00430: Parent: Child process 32460 exited successfully.
+[Mon Oct 09 23:30:44.544695 2017] [mpm_winnt:notice] [pid 29580:tid 352] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 09 23:30:44.545696 2017] [mpm_winnt:notice] [pid 29580:tid 352] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 23:30:44.545696 2017] [core:notice] [pid 29580:tid 352] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 23:30:44.547697 2017] [mpm_winnt:notice] [pid 29580:tid 352] AH00418: Parent: Created child process 33104
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 33104:tid 332] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 23:31:03.208618 2017] [wsgi:error] [pid 33104:tid 448] [client 59.66.132.116:26416] Invalid HTTP_HOST header: '59.66.132.116:8089'. You may need to add '59.66.132.116' to ALLOWED_HOSTS.\r
+[Mon Oct 09 23:31:33.507961 2017] [wsgi:error] [pid 33104:tid 448] [client 59.66.132.116:26418] Invalid HTTP_HOST header: '59.66.132.116:8089'. You may need to add '59.66.132.116' to ALLOWED_HOSTS.\r
+[Mon Oct 09 23:34:10.908843 2017] [mpm_winnt:notice] [pid 29580:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 23:34:12.910265 2017] [mpm_winnt:notice] [pid 33104:tid 332] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 23:34:13.060371 2017] [mpm_winnt:notice] [pid 29580:tid 352] AH00430: Parent: Child process 33104 exited successfully.
+[Mon Oct 09 23:34:15.194888 2017] [mpm_winnt:notice] [pid 35116:tid 324] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 09 23:34:15.195890 2017] [mpm_winnt:notice] [pid 35116:tid 324] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 23:34:15.195890 2017] [core:notice] [pid 35116:tid 324] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 23:34:15.197891 2017] [mpm_winnt:notice] [pid 35116:tid 324] AH00418: Parent: Created child process 33308
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 33308:tid 404] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 23:34:21.003983 2017] [wsgi:error] [pid 33308:tid 944] [client 59.66.132.116:26426] Invalid HTTP_HOST header: '59.66.132.116:8089'. You may need to add '59.66.132.116' to ALLOWED_HOSTS.\r
+[Mon Oct 09 23:35:18.018870 2017] [wsgi:error] [pid 33308:tid 944] [client 59.66.132.116:26523] Invalid HTTP_HOST header: '59.66.132.116:8089'. You may need to add '59.66.132.116' to ALLOWED_HOSTS.\r
+[Mon Oct 09 23:35:20.986981 2017] [wsgi:error] [pid 33308:tid 944] [client 59.66.132.116:26524] Invalid HTTP_HOST header: '59.66.132.116:8089'. You may need to add '59.66.132.116' to ALLOWED_HOSTS.\r
+[Mon Oct 09 23:35:37.686452 2017] [wsgi:error] [pid 33308:tid 944] [client 59.66.132.116:26525] Invalid HTTP_HOST header: '59.66.132.116:8089'. You may need to add '59.66.132.116' to ALLOWED_HOSTS.\r
+[Mon Oct 09 23:35:40.564494 2017] [mpm_winnt:notice] [pid 35116:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 23:35:42.566439 2017] [mpm_winnt:notice] [pid 33308:tid 404] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 23:35:42.676517 2017] [mpm_winnt:notice] [pid 35116:tid 324] AH00430: Parent: Child process 33308 exited successfully.
+[Mon Oct 09 23:35:46.280077 2017] [mpm_winnt:notice] [pid 31932:tid 256] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 09 23:35:46.281078 2017] [mpm_winnt:notice] [pid 31932:tid 256] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 23:35:46.281078 2017] [core:notice] [pid 31932:tid 256] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 23:35:46.282080 2017] [mpm_winnt:notice] [pid 31932:tid 256] AH00418: Parent: Created child process 33288
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 33288:tid 428] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 23:35:49.304226 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527] mod_wsgi (pid=33288): Target WSGI script 'E:/python/web/pms/wsgi.py' cannot be loaded as Python module.
+[Mon Oct 09 23:35:49.304226 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527] mod_wsgi (pid=33288): Exception occurred processing WSGI script 'E:/python/web/pms/wsgi.py'.
+[Mon Oct 09 23:35:49.429316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527] Traceback (most recent call last):\r
+[Mon Oct 09 23:35:49.429316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "E:/python/web/pms/wsgi.py", line 16, in <module>\r
+[Mon Oct 09 23:35:49.429316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]     application = get_wsgi_application()\r
+[Mon Oct 09 23:35:49.430316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\wsgi.py", line 13, in get_wsgi_application\r
+[Mon Oct 09 23:35:49.430316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]     django.setup(set_prefix=False)\r
+[Mon Oct 09 23:35:49.430316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\__init__.py", line 22, in setup\r
+[Mon Oct 09 23:35:49.430316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)\r
+[Mon Oct 09 23:35:49.430316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\conf\\__init__.py", line 56, in __getattr__\r
+[Mon Oct 09 23:35:49.430316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]     self._setup(name)\r
+[Mon Oct 09 23:35:49.430316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\conf\\__init__.py", line 41, in _setup\r
+[Mon Oct 09 23:35:49.430316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]     self._wrapped = Settings(settings_module)\r
+[Mon Oct 09 23:35:49.430316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\conf\\__init__.py", line 110, in __init__\r
+[Mon Oct 09 23:35:49.430316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]     mod = importlib.import_module(self.SETTINGS_MODULE)\r
+[Mon Oct 09 23:35:49.430316 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\importlib\\__init__.py", line 126, in import_module\r
+[Mon Oct 09 23:35:49.431317 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]     return _bootstrap._gcd_import(name[level:], package, level)\r
+[Mon Oct 09 23:35:49.431317 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "<frozen importlib._bootstrap>", line 986, in _gcd_import\r
+[Mon Oct 09 23:35:49.431317 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "<frozen importlib._bootstrap>", line 969, in _find_and_load\r
+[Mon Oct 09 23:35:49.431317 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked\r
+[Mon Oct 09 23:35:49.431317 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "<frozen importlib._bootstrap>", line 673, in _load_unlocked\r
+[Mon Oct 09 23:35:49.431317 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "<frozen importlib._bootstrap_external>", line 658, in exec_module\r
+[Mon Oct 09 23:35:49.431317 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "<frozen importlib._bootstrap_external>", line 764, in get_code\r
+[Mon Oct 09 23:35:49.431317 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "<frozen importlib._bootstrap_external>", line 724, in source_to_code\r
+[Mon Oct 09 23:35:49.431317 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed\r
+[Mon Oct 09 23:35:49.431317 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]   File "E:\\python\\web\\pms\\settings.py", line 27\r
+[Mon Oct 09 23:35:49.431317 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]     ALLOWED_HOSTS = [*]\r
+[Mon Oct 09 23:35:49.431317 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527]                       ^\r
+[Mon Oct 09 23:35:49.431317 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26527] SyntaxError: invalid syntax\r
+[Mon Oct 09 23:36:20.819238 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533] mod_wsgi (pid=33288): Target WSGI script 'E:/python/web/pms/wsgi.py' cannot be loaded as Python module.
+[Mon Oct 09 23:36:20.820238 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533] mod_wsgi (pid=33288): Exception occurred processing WSGI script 'E:/python/web/pms/wsgi.py'.
+[Mon Oct 09 23:36:20.821240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533] Traceback (most recent call last):\r
+[Mon Oct 09 23:36:20.821240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "E:/python/web/pms/wsgi.py", line 16, in <module>\r
+[Mon Oct 09 23:36:20.821240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]     application = get_wsgi_application()\r
+[Mon Oct 09 23:36:20.821240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\wsgi.py", line 13, in get_wsgi_application\r
+[Mon Oct 09 23:36:20.821240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]     django.setup(set_prefix=False)\r
+[Mon Oct 09 23:36:20.821240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\__init__.py", line 22, in setup\r
+[Mon Oct 09 23:36:20.821240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)\r
+[Mon Oct 09 23:36:20.821240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\conf\\__init__.py", line 56, in __getattr__\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]     self._setup(name)\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\conf\\__init__.py", line 41, in _setup\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]     self._wrapped = Settings(settings_module)\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\conf\\__init__.py", line 110, in __init__\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]     mod = importlib.import_module(self.SETTINGS_MODULE)\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\importlib\\__init__.py", line 126, in import_module\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]     return _bootstrap._gcd_import(name[level:], package, level)\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "<frozen importlib._bootstrap>", line 986, in _gcd_import\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "<frozen importlib._bootstrap>", line 969, in _find_and_load\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "<frozen importlib._bootstrap>", line 673, in _load_unlocked\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "<frozen importlib._bootstrap_external>", line 658, in exec_module\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "<frozen importlib._bootstrap_external>", line 764, in get_code\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "<frozen importlib._bootstrap_external>", line 724, in source_to_code\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]   File "E:\\python\\web\\pms\\settings.py", line 27\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]     ALLOWED_HOSTS = [*]\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533]                       ^\r
+[Mon Oct 09 23:36:20.822240 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26533] SyntaxError: invalid syntax\r
+[Mon Oct 09 23:37:55.801796 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620] mod_wsgi (pid=33288): Target WSGI script 'E:/python/web/pms/wsgi.py' cannot be loaded as Python module.
+[Mon Oct 09 23:37:55.801796 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620] mod_wsgi (pid=33288): Exception occurred processing WSGI script 'E:/python/web/pms/wsgi.py'.
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620] Traceback (most recent call last):\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "E:/python/web/pms/wsgi.py", line 16, in <module>\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]     application = get_wsgi_application()\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\wsgi.py", line 13, in get_wsgi_application\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]     django.setup(set_prefix=False)\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\__init__.py", line 22, in setup\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\conf\\__init__.py", line 56, in __getattr__\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]     self._setup(name)\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\conf\\__init__.py", line 41, in _setup\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]     self._wrapped = Settings(settings_module)\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\conf\\__init__.py", line 110, in __init__\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]     mod = importlib.import_module(self.SETTINGS_MODULE)\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\importlib\\__init__.py", line 126, in import_module\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]     return _bootstrap._gcd_import(name[level:], package, level)\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "<frozen importlib._bootstrap>", line 986, in _gcd_import\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "<frozen importlib._bootstrap>", line 969, in _find_and_load\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "<frozen importlib._bootstrap>", line 673, in _load_unlocked\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "<frozen importlib._bootstrap_external>", line 658, in exec_module\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "<frozen importlib._bootstrap_external>", line 764, in get_code\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "<frozen importlib._bootstrap_external>", line 724, in source_to_code\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]   File "E:\\python\\web\\pms\\settings.py", line 28\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]     ALLOWED_HOSTS = [*]\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620]                       ^\r
+[Mon Oct 09 23:37:55.802799 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26620] SyntaxError: invalid syntax\r
+[Mon Oct 09 23:37:57.441963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621] mod_wsgi (pid=33288): Target WSGI script 'E:/python/web/pms/wsgi.py' cannot be loaded as Python module.
+[Mon Oct 09 23:37:57.441963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621] mod_wsgi (pid=33288): Exception occurred processing WSGI script 'E:/python/web/pms/wsgi.py'.
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621] Traceback (most recent call last):\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "E:/python/web/pms/wsgi.py", line 16, in <module>\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]     application = get_wsgi_application()\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\wsgi.py", line 13, in get_wsgi_application\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]     django.setup(set_prefix=False)\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\__init__.py", line 22, in setup\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]     configure_logging(settings.LOGGING_CONFIG, settings.LOGGING)\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\conf\\__init__.py", line 56, in __getattr__\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]     self._setup(name)\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\conf\\__init__.py", line 41, in _setup\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]     self._wrapped = Settings(settings_module)\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\conf\\__init__.py", line 110, in __init__\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]     mod = importlib.import_module(self.SETTINGS_MODULE)\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\importlib\\__init__.py", line 126, in import_module\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]     return _bootstrap._gcd_import(name[level:], package, level)\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "<frozen importlib._bootstrap>", line 986, in _gcd_import\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "<frozen importlib._bootstrap>", line 969, in _find_and_load\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "<frozen importlib._bootstrap>", line 673, in _load_unlocked\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "<frozen importlib._bootstrap_external>", line 658, in exec_module\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "<frozen importlib._bootstrap_external>", line 764, in get_code\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "<frozen importlib._bootstrap_external>", line 724, in source_to_code\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]   File "E:\\python\\web\\pms\\settings.py", line 28\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]     ALLOWED_HOSTS = [*]\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621]                       ^\r
+[Mon Oct 09 23:37:57.442963 2017] [wsgi:error] [pid 33288:tid 948] [client 59.66.132.116:26621] SyntaxError: invalid syntax\r
+[Mon Oct 09 23:42:50.117209 2017] [mpm_winnt:notice] [pid 31932:tid 256] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 23:42:52.118633 2017] [mpm_winnt:notice] [pid 33288:tid 428] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 23:42:52.340789 2017] [mpm_winnt:notice] [pid 31932:tid 256] AH00430: Parent: Child process 33288 exited successfully.
+[Mon Oct 09 23:44:33.743426 2017] [mpm_winnt:notice] [pid 11300:tid 356] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 09 23:44:33.744427 2017] [mpm_winnt:notice] [pid 11300:tid 356] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 23:44:33.744427 2017] [core:notice] [pid 11300:tid 356] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 23:44:33.745428 2017] [mpm_winnt:notice] [pid 11300:tid 356] AH00418: Parent: Created child process 36764
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 36764:tid 452] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 09 23:46:19.772711 2017] [mpm_winnt:notice] [pid 11300:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 09 23:46:21.774135 2017] [mpm_winnt:notice] [pid 36764:tid 452] AH00364: Child: All worker threads have exited.
+[Mon Oct 09 23:46:21.869201 2017] [mpm_winnt:notice] [pid 11300:tid 356] AH00430: Parent: Child process 36764 exited successfully.
+[Mon Oct 09 23:46:24.765104 2017] [mpm_winnt:notice] [pid 6392:tid 364] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 09 23:46:24.766105 2017] [mpm_winnt:notice] [pid 6392:tid 364] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 09 23:46:24.766105 2017] [core:notice] [pid 6392:tid 364] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 09 23:46:24.767106 2017] [mpm_winnt:notice] [pid 6392:tid 364] AH00418: Parent: Created child process 6432
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6432:tid 360] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 10 00:00:34.972949 2017] [mpm_winnt:notice] [pid 6392:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 10 00:00:36.974138 2017] [mpm_winnt:notice] [pid 6432:tid 360] AH00364: Child: All worker threads have exited.
+[Tue Oct 10 00:00:37.159268 2017] [mpm_winnt:notice] [pid 6392:tid 364] AH00430: Parent: Child process 6432 exited successfully.
+[Tue Oct 10 00:36:40.419512 2017] [mpm_winnt:notice] [pid 5360:tid 364] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Tue Oct 10 00:36:40.435192 2017] [mpm_winnt:notice] [pid 5360:tid 364] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Tue Oct 10 00:36:40.435192 2017] [core:notice] [pid 5360:tid 364] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 10 00:36:40.435192 2017] [mpm_winnt:notice] [pid 5360:tid 364] AH00418: Parent: Created child process 4192
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 4192:tid 444] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 10 00:40:32.942913 2017] [mpm_winnt:notice] [pid 5360:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 10 00:40:34.974269 2017] [mpm_winnt:notice] [pid 4192:tid 444] AH00364: Child: All worker threads have exited.
+[Tue Oct 10 00:40:35.177321 2017] [mpm_winnt:notice] [pid 5360:tid 364] AH00430: Parent: Child process 4192 exited successfully.
+[Tue Oct 10 16:12:56.280542 2017] [mpm_winnt:notice] [pid 5876:tid 320] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Tue Oct 10 16:12:56.280542 2017] [mpm_winnt:notice] [pid 5876:tid 320] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Tue Oct 10 16:12:56.280542 2017] [core:notice] [pid 5876:tid 320] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 10 16:12:56.280542 2017] [mpm_winnt:notice] [pid 5876:tid 320] AH00418: Parent: Created child process 1876
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 1876:tid 440] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 10 16:31:44.427119 2017] [mpm_winnt:notice] [pid 5876:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 10 16:31:46.471443 2017] [mpm_winnt:notice] [pid 1876:tid 440] AH00364: Child: All worker threads have exited.
+[Tue Oct 10 16:31:46.720207 2017] [mpm_winnt:notice] [pid 5876:tid 320] AH00430: Parent: Child process 1876 exited successfully.
+[Tue Oct 10 16:31:51.302118 2017] [mpm_winnt:notice] [pid 5124:tid 352] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Tue Oct 10 16:31:51.303119 2017] [mpm_winnt:notice] [pid 5124:tid 352] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Tue Oct 10 16:31:51.303119 2017] [core:notice] [pid 5124:tid 352] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 10 16:31:51.304120 2017] [mpm_winnt:notice] [pid 5124:tid 352] AH00418: Parent: Created child process 96
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 96:tid 452] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 10 16:33:37.744683 2017] [mpm_winnt:notice] [pid 5124:tid 352] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 10 16:33:39.746820 2017] [mpm_winnt:notice] [pid 96:tid 452] AH00364: Child: All worker threads have exited.
+[Tue Oct 10 16:33:39.823392 2017] [mpm_winnt:notice] [pid 5124:tid 352] AH00430: Parent: Child process 96 exited successfully.
+[Tue Oct 10 16:33:43.261493 2017] [mpm_winnt:notice] [pid 4272:tid 320] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Tue Oct 10 16:33:43.261493 2017] [mpm_winnt:notice] [pid 4272:tid 320] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Tue Oct 10 16:33:43.261493 2017] [core:notice] [pid 4272:tid 320] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 10 16:33:43.262492 2017] [mpm_winnt:notice] [pid 4272:tid 320] AH00418: Parent: Created child process 3156
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 3156:tid 448] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 10 16:40:37.832953 2017] [mpm_winnt:notice] [pid 4272:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 10 16:40:39.834711 2017] [mpm_winnt:notice] [pid 3156:tid 448] AH00364: Child: All worker threads have exited.
+[Tue Oct 10 16:40:40.009752 2017] [mpm_winnt:notice] [pid 4272:tid 320] AH00430: Parent: Child process 3156 exited successfully.
+[Tue Oct 10 16:43:18.400038 2017] [mpm_winnt:notice] [pid 4348:tid 348] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Tue Oct 10 16:43:18.400038 2017] [mpm_winnt:notice] [pid 4348:tid 348] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Tue Oct 10 16:43:18.400038 2017] [core:notice] [pid 4348:tid 348] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 10 16:43:18.402041 2017] [mpm_winnt:notice] [pid 4348:tid 348] AH00418: Parent: Created child process 5764
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 5764:tid 448] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 10 16:44:16.992927 2017] [mpm_winnt:notice] [pid 4348:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 10 16:44:18.993809 2017] [mpm_winnt:notice] [pid 5764:tid 448] AH00364: Child: All worker threads have exited.
+[Tue Oct 10 16:44:19.069963 2017] [mpm_winnt:notice] [pid 4348:tid 348] AH00430: Parent: Child process 5764 exited successfully.
+[Tue Oct 10 16:44:21.974249 2017] [mpm_winnt:notice] [pid 3192:tid 336] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Tue Oct 10 16:44:21.974249 2017] [mpm_winnt:notice] [pid 3192:tid 336] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Tue Oct 10 16:44:21.974249 2017] [core:notice] [pid 3192:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 10 16:44:21.976250 2017] [mpm_winnt:notice] [pid 3192:tid 336] AH00418: Parent: Created child process 3044
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 3044:tid 348] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 10 16:44:48.753369 2017] [mpm_winnt:notice] [pid 3192:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 10 16:44:50.754035 2017] [mpm_winnt:notice] [pid 3044:tid 348] AH00364: Child: All worker threads have exited.
+[Tue Oct 10 16:44:50.839171 2017] [mpm_winnt:notice] [pid 3192:tid 336] AH00430: Parent: Child process 3044 exited successfully.
+[Tue Oct 10 16:53:26.552565 2017] [mpm_winnt:notice] [pid 6136:tid 356] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Tue Oct 10 16:53:26.552565 2017] [mpm_winnt:notice] [pid 6136:tid 356] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Tue Oct 10 16:53:26.552565 2017] [core:notice] [pid 6136:tid 356] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 10 16:53:26.553567 2017] [mpm_winnt:notice] [pid 6136:tid 356] AH00418: Parent: Created child process 5052
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 5052:tid 512] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 10 17:05:06.873557 2017] [mpm_winnt:notice] [pid 6136:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 10 17:05:08.875621 2017] [mpm_winnt:notice] [pid 5052:tid 512] AH00364: Child: All worker threads have exited.
+[Tue Oct 10 17:05:09.128868 2017] [mpm_winnt:notice] [pid 6136:tid 356] AH00430: Parent: Child process 5052 exited successfully.
+[Tue Oct 10 17:05:11.900055 2017] [mpm_winnt:notice] [pid 6684:tid 340] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Tue Oct 10 17:05:11.901060 2017] [mpm_winnt:notice] [pid 6684:tid 340] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Tue Oct 10 17:05:11.901060 2017] [core:notice] [pid 6684:tid 340] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 10 17:05:11.902061 2017] [mpm_winnt:notice] [pid 6684:tid 340] AH00418: Parent: Created child process 5560
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 5560:tid 444] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 10 17:42:01.322584 2017] [mpm_winnt:notice] [pid 6684:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 10 17:42:03.323465 2017] [mpm_winnt:notice] [pid 5560:tid 444] AH00364: Child: All worker threads have exited.
+[Tue Oct 10 17:42:03.626863 2017] [mpm_winnt:notice] [pid 6684:tid 340] AH00430: Parent: Child process 5560 exited successfully.
+[Tue Oct 10 17:42:07.808779 2017] [mpm_winnt:notice] [pid 5320:tid 336] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Tue Oct 10 17:42:07.808779 2017] [mpm_winnt:notice] [pid 5320:tid 336] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Tue Oct 10 17:42:07.808779 2017] [core:notice] [pid 5320:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 10 17:42:07.809780 2017] [mpm_winnt:notice] [pid 5320:tid 336] AH00418: Parent: Created child process 3580
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 3580:tid 416] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 10 20:00:34.236935 2017] [mpm_winnt:notice] [pid 5320:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 10 20:00:36.238716 2017] [mpm_winnt:notice] [pid 3580:tid 416] AH00364: Child: All worker threads have exited.
+[Tue Oct 10 20:00:36.632084 2017] [mpm_winnt:notice] [pid 5320:tid 336] AH00430: Parent: Child process 3580 exited successfully.
+[Tue Oct 10 21:11:07.756717 2017] [mpm_winnt:notice] [pid 1352:tid 316] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Tue Oct 10 21:11:07.757719 2017] [mpm_winnt:notice] [pid 1352:tid 316] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Tue Oct 10 21:11:07.757719 2017] [core:notice] [pid 1352:tid 316] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 10 21:11:07.760721 2017] [mpm_winnt:notice] [pid 1352:tid 316] AH00418: Parent: Created child process 6440
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6440:tid 476] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 10 21:11:31.007721 2017] [wsgi:error] [pid 6440:tid 948] [client 59.66.132.116:8007] Target WSGI script not found or unable to stat: E:/python/website
+[Tue Oct 10 21:12:47.273390 2017] [wsgi:error] [pid 6440:tid 948] [client 59.66.132.116:8010] Target WSGI script not found or unable to stat: E:/python/website
+[Tue Oct 10 21:12:51.563629 2017] [wsgi:error] [pid 6440:tid 944] [client 59.66.132.116:8011] Target WSGI script not found or unable to stat: E:/python/website
+[Tue Oct 10 21:12:57.483355 2017] [wsgi:error] [pid 6440:tid 944] [client 59.66.132.116:8012] Target WSGI script not found or unable to stat: E:/python/website
+[Tue Oct 10 21:14:04.281496 2017] [wsgi:error] [pid 6440:tid 944] [client 59.66.132.116:8013] Target WSGI script not found or unable to stat: E:/python/website
+[Tue Oct 10 21:14:26.206553 2017] [mpm_winnt:notice] [pid 1352:tid 316] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 10 21:14:28.208154 2017] [mpm_winnt:notice] [pid 6440:tid 476] AH00364: Child: All worker threads have exited.
+[Tue Oct 10 21:14:28.294291 2017] [mpm_winnt:notice] [pid 1352:tid 316] AH00430: Parent: Child process 6440 exited successfully.
+[Tue Oct 10 21:16:17.220129 2017] [mpm_winnt:notice] [pid 2256:tid 324] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Tue Oct 10 21:16:17.220129 2017] [mpm_winnt:notice] [pid 2256:tid 324] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Tue Oct 10 21:16:17.220129 2017] [core:notice] [pid 2256:tid 324] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 10 21:16:17.221113 2017] [mpm_winnt:notice] [pid 2256:tid 324] AH00418: Parent: Created child process 2428
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 2428:tid 472] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 10 21:16:36.414896 2017] [wsgi:error] [pid 2428:tid 948] [client 59.66.132.116:8112] Not Found: /\r
+[Tue Oct 10 21:21:20.344928 2017] [wsgi:error] [pid 2428:tid 948] [client 183.172.226.215:9743] Not Found: /\r
+[Tue Oct 10 21:21:20.355945 2017] [wsgi:error] [pid 2428:tid 940] [client 183.172.226.215:9745] Not Found: /robots.txt\r
+[Tue Oct 10 21:21:21.034502 2017] [wsgi:error] [pid 2428:tid 948] [client 183.172.226.215:9743] Not Found: /favicon.ico\r, referer: http://www.lzmlzm.ml/
+[Tue Oct 10 21:25:49.295390 2017] [mpm_winnt:notice] [pid 2256:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 10 21:25:51.297096 2017] [mpm_winnt:notice] [pid 2428:tid 472] AH00364: Child: All worker threads have exited.
+[Tue Oct 10 21:25:51.455709 2017] [mpm_winnt:notice] [pid 2256:tid 324] AH00430: Parent: Child process 2428 exited successfully.
+[Wed Oct 18 11:17:15.905331 2017] [mpm_winnt:notice] [pid 2548:tid 320] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Wed Oct 18 11:17:15.905331 2017] [mpm_winnt:notice] [pid 2548:tid 320] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Wed Oct 18 11:17:15.905331 2017] [core:notice] [pid 2548:tid 320] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 18 11:17:15.920964 2017] [mpm_winnt:notice] [pid 2548:tid 320] AH00418: Parent: Created child process 1428
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 1428:tid 468] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465] Internal Server Error: /\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465] Traceback (most recent call last):\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\exception.py", line 41, in inner\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]     response = get_response(request)\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\base.py", line 217, in _get_response\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]     response = self.process_exception_by_middleware(e, request)\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\base.py", line 215, in _get_response\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]     response = response.render()\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 107, in render\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]     self.content = self.rendered_content\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 82, in rendered_content\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]     template = self.resolve_template(self.template_name)\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 64, in resolve_template\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]     return select_template(template, using=self.using)\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\loader.py", line 53, in select_template\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465]     raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)\r
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465] django.template.exceptions.TemplateDoesNotExist: index.html
+[Wed Oct 18 11:18:11.301122 2017] [wsgi:error] [pid 1428:tid 496] [client 127.0.0.1:12465] \r
+[Wed Oct 18 11:34:25.239901 2017] [mpm_winnt:notice] [pid 2548:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 18 11:34:27.318067 2017] [mpm_winnt:notice] [pid 1428:tid 468] AH00364: Child: All worker threads have exited.
+[Wed Oct 18 11:34:27.630501 2017] [mpm_winnt:notice] [pid 2548:tid 320] AH00430: Parent: Child process 1428 exited successfully.
+[Wed Oct 18 16:33:36.194371 2017] [mpm_winnt:notice] [pid 4108:tid 332] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Wed Oct 18 16:33:36.195352 2017] [mpm_winnt:notice] [pid 4108:tid 332] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Wed Oct 18 16:33:36.196351 2017] [core:notice] [pid 4108:tid 332] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 18 16:33:36.198361 2017] [mpm_winnt:notice] [pid 4108:tid 332] AH00418: Parent: Created child process 100
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 100:tid 468] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 18 16:33:56.279400 2017] [wsgi:error] [pid 100:tid 948] [client 127.0.0.1:15431] mod_wsgi (pid=100): Target WSGI script 'C:/Users/lzm/PycharmProjects/backend2/backend2/wsgi.py' cannot be loaded as Python module.
+[Wed Oct 18 16:33:56.279400 2017] [wsgi:error] [pid 100:tid 948] [client 127.0.0.1:15431] mod_wsgi (pid=100): Exception occurred processing WSGI script 'C:/Users/lzm/PycharmProjects/backend2/backend2/wsgi.py'.
+[Wed Oct 18 16:33:56.279400 2017] [wsgi:error] [pid 100:tid 948] [client 127.0.0.1:15431]   File "C:/Users/lzm/PycharmProjects/backend2/backend2/wsgi.py", line 16\r
+[Wed Oct 18 16:33:56.279400 2017] [wsgi:error] [pid 100:tid 948] [client 127.0.0.1:15431]     sys.path.append('C:\\Users\\lzm\\PycharmProjects\\backend2')\r
+[Wed Oct 18 16:33:56.280401 2017] [wsgi:error] [pid 100:tid 948] [client 127.0.0.1:15431]                    ^\r
+[Wed Oct 18 16:33:56.280401 2017] [wsgi:error] [pid 100:tid 948] [client 127.0.0.1:15431] SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \\UXXXXXXXX escape\r
+[Wed Oct 18 16:35:02.848066 2017] [mpm_winnt:notice] [pid 4108:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 18 16:35:04.849996 2017] [mpm_winnt:notice] [pid 100:tid 468] AH00364: Child: All worker threads have exited.
+[Wed Oct 18 16:35:04.989995 2017] [mpm_winnt:notice] [pid 4108:tid 332] AH00430: Parent: Child process 100 exited successfully.
+[Wed Oct 18 16:45:57.464999 2017] [mpm_winnt:notice] [pid 3684:tid 344] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Wed Oct 18 16:45:57.466000 2017] [mpm_winnt:notice] [pid 3684:tid 344] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Wed Oct 18 16:45:57.466000 2017] [core:notice] [pid 3684:tid 344] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 18 16:45:57.466999 2017] [mpm_winnt:notice] [pid 3684:tid 344] AH00418: Parent: Created child process 1932
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 1932:tid 452] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 18 16:46:03.016610 2017] [mpm_winnt:notice] [pid 3684:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 18 16:46:05.019011 2017] [mpm_winnt:notice] [pid 1932:tid 452] AH00364: Child: All worker threads have exited.
+[Wed Oct 18 16:46:05.088099 2017] [mpm_winnt:notice] [pid 3684:tid 344] AH00430: Parent: Child process 1932 exited successfully.
+[Wed Oct 18 16:46:07.248610 2017] [mpm_winnt:notice] [pid 7036:tid 320] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Wed Oct 18 16:46:07.249612 2017] [mpm_winnt:notice] [pid 7036:tid 320] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Wed Oct 18 16:46:07.249612 2017] [core:notice] [pid 7036:tid 320] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 18 16:46:07.253616 2017] [mpm_winnt:notice] [pid 7036:tid 320] AH00418: Parent: Created child process 7128
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7128:tid 464] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 18 16:46:26.261610 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764] Internal Server Error: /\r
+[Wed Oct 18 16:46:26.261610 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764] Traceback (most recent call last):\r
+[Wed Oct 18 16:46:26.261610 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\exception.py", line 41, in inner\r
+[Wed Oct 18 16:46:26.261610 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]     response = get_response(request)\r
+[Wed Oct 18 16:46:26.261610 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\base.py", line 217, in _get_response\r
+[Wed Oct 18 16:46:26.261610 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]     response = self.process_exception_by_middleware(e, request)\r
+[Wed Oct 18 16:46:26.262614 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\base.py", line 215, in _get_response\r
+[Wed Oct 18 16:46:26.262614 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]     response = response.render()\r
+[Wed Oct 18 16:46:26.262614 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 107, in render\r
+[Wed Oct 18 16:46:26.262614 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]     self.content = self.rendered_content\r
+[Wed Oct 18 16:46:26.262614 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 82, in rendered_content\r
+[Wed Oct 18 16:46:26.262614 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]     template = self.resolve_template(self.template_name)\r
+[Wed Oct 18 16:46:26.262614 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 64, in resolve_template\r
+[Wed Oct 18 16:46:26.262614 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]     return select_template(template, using=self.using)\r
+[Wed Oct 18 16:46:26.262614 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\loader.py", line 53, in select_template\r
+[Wed Oct 18 16:46:26.262614 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764]     raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)\r
+[Wed Oct 18 16:46:26.262614 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764] django.template.exceptions.TemplateDoesNotExist: index.html
+[Wed Oct 18 16:46:26.262614 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15764] \r
+[Wed Oct 18 16:46:45.292926 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15768] Not Found: /login\r
+[Wed Oct 18 16:47:06.859825 2017] [wsgi:error] [pid 7128:tid 952] [client 127.0.0.1:15784] login\r
+[Wed Oct 18 16:47:33.040295 2017] [mpm_winnt:notice] [pid 7036:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 18 16:47:35.041808 2017] [mpm_winnt:notice] [pid 7128:tid 464] AH00364: Child: All worker threads have exited.
+[Wed Oct 18 16:47:35.232704 2017] [mpm_winnt:notice] [pid 7036:tid 320] AH00430: Parent: Child process 7128 exited successfully.
+[Wed Oct 18 16:51:58.471251 2017] [mpm_winnt:notice] [pid 5976:tid 348] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Wed Oct 18 16:51:58.471251 2017] [mpm_winnt:notice] [pid 5976:tid 348] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Wed Oct 18 16:51:58.471251 2017] [core:notice] [pid 5976:tid 348] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 18 16:51:58.473254 2017] [mpm_winnt:notice] [pid 5976:tid 348] AH00418: Parent: Created child process 992
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 992:tid 444] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 18 16:52:05.759229 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882] Internal Server Error: /\r
+[Wed Oct 18 16:52:05.759229 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882] Traceback (most recent call last):\r
+[Wed Oct 18 16:52:05.759229 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\exception.py", line 41, in inner\r
+[Wed Oct 18 16:52:05.759229 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]     response = get_response(request)\r
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\base.py", line 217, in _get_response\r
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]     response = self.process_exception_by_middleware(e, request)\r
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\base.py", line 215, in _get_response\r
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]     response = response.render()\r
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 107, in render\r
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]     self.content = self.rendered_content\r
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 82, in rendered_content\r
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]     template = self.resolve_template(self.template_name)\r
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 64, in resolve_template\r
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]     return select_template(template, using=self.using)\r
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\loader.py", line 53, in select_template\r
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882]     raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)\r
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882] django.template.exceptions.TemplateDoesNotExist: index.html
+[Wed Oct 18 16:52:05.760230 2017] [wsgi:error] [pid 992:tid 948] [client 127.0.0.1:15882] \r
+[Wed Oct 18 16:57:36.185120 2017] [mpm_winnt:notice] [pid 5976:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 18 16:57:38.187512 2017] [mpm_winnt:notice] [pid 992:tid 444] AH00364: Child: All worker threads have exited.
+[Wed Oct 18 16:57:38.361785 2017] [mpm_winnt:notice] [pid 5976:tid 348] AH00430: Parent: Child process 992 exited successfully.
+[Wed Oct 18 17:00:47.393229 2017] [mpm_winnt:notice] [pid 5808:tid 332] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Wed Oct 18 17:00:47.394230 2017] [mpm_winnt:notice] [pid 5808:tid 332] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Wed Oct 18 17:00:47.394230 2017] [core:notice] [pid 5808:tid 332] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 18 17:00:47.396213 2017] [mpm_winnt:notice] [pid 5808:tid 332] AH00418: Parent: Created child process 6556
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6556:tid 428] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 18 17:03:48.385713 2017] [mpm_winnt:notice] [pid 5808:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 18 17:03:50.388400 2017] [mpm_winnt:notice] [pid 6556:tid 428] AH00364: Child: All worker threads have exited.
+[Wed Oct 18 17:03:50.594112 2017] [mpm_winnt:notice] [pid 5808:tid 332] AH00430: Parent: Child process 6556 exited successfully.
+[Wed Oct 18 17:05:12.911519 2017] [mpm_winnt:notice] [pid 2384:tid 340] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Wed Oct 18 17:05:12.913521 2017] [mpm_winnt:notice] [pid 2384:tid 340] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Wed Oct 18 17:05:12.913521 2017] [core:notice] [pid 2384:tid 340] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 18 17:05:12.916495 2017] [mpm_winnt:notice] [pid 2384:tid 340] AH00418: Parent: Created child process 7048
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7048:tid 476] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 18 17:05:41.319394 2017] [wsgi:error] [pid 7048:tid 948] [client 127.0.0.1:16224] Attempt to invoke directory as WSGI application: C:/Users/lzm/PycharmProjects/backend2/backend2/
+[Wed Oct 18 17:06:44.026603 2017] [mpm_winnt:notice] [pid 2384:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 18 17:06:46.027784 2017] [mpm_winnt:notice] [pid 7048:tid 476] AH00364: Child: All worker threads have exited.
+[Wed Oct 18 17:06:46.125034 2017] [mpm_winnt:notice] [pid 2384:tid 340] AH00430: Parent: Child process 7048 exited successfully.
+[Wed Oct 18 17:06:48.366789 2017] [mpm_winnt:notice] [pid 888:tid 364] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Wed Oct 18 17:06:48.368791 2017] [mpm_winnt:notice] [pid 888:tid 364] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Wed Oct 18 17:06:48.368791 2017] [core:notice] [pid 888:tid 364] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 18 17:06:48.371793 2017] [mpm_winnt:notice] [pid 888:tid 364] AH00418: Parent: Created child process 2480
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 2480:tid 444] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 18 17:06:53.656720 2017] [wsgi:error] [pid 2480:tid 948] [client 127.0.0.1:16229] Attempt to invoke directory as WSGI application: C:/Users/lzm/PycharmProjects/backend2/backend2/
+[Wed Oct 18 17:07:30.968826 2017] [wsgi:error] [pid 2480:tid 948] [client 127.0.0.1:16230] Attempt to invoke directory as WSGI application: C:/Users/lzm/PycharmProjects/backend2/backend2/
+[Wed Oct 18 17:07:35.129884 2017] [mpm_winnt:notice] [pid 888:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 18 17:07:37.131876 2017] [mpm_winnt:notice] [pid 2480:tid 444] AH00364: Child: All worker threads have exited.
+[Wed Oct 18 17:07:37.245299 2017] [mpm_winnt:notice] [pid 888:tid 364] AH00430: Parent: Child process 2480 exited successfully.
+[Wed Oct 18 17:07:39.523625 2017] [mpm_winnt:notice] [pid 5600:tid 324] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Wed Oct 18 17:07:39.523625 2017] [mpm_winnt:notice] [pid 5600:tid 324] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Wed Oct 18 17:07:39.523625 2017] [core:notice] [pid 5600:tid 324] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 18 17:07:39.524624 2017] [mpm_winnt:notice] [pid 5600:tid 324] AH00418: Parent: Created child process 2364
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 2364:tid 428] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 18 17:07:43.202354 2017] [wsgi:error] [pid 2364:tid 952] [client 127.0.0.1:16231] Attempt to invoke directory as WSGI application: C:/Users/lzm/PycharmProjects/backend2/backend2/
+[Wed Oct 18 17:07:56.322604 2017] [mpm_winnt:notice] [pid 5600:tid 324] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 18 17:07:58.323184 2017] [mpm_winnt:notice] [pid 2364:tid 428] AH00364: Child: All worker threads have exited.
+[Wed Oct 18 17:07:58.477586 2017] [mpm_winnt:notice] [pid 5600:tid 324] AH00430: Parent: Child process 2364 exited successfully.
+[Sun Oct 22 14:29:34.799591 2017] [mpm_winnt:notice] [pid 6212:tid 348] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 14:29:34.815198 2017] [mpm_winnt:notice] [pid 6212:tid 348] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 14:29:34.815198 2017] [core:notice] [pid 6212:tid 348] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 14:29:34.815198 2017] [mpm_winnt:notice] [pid 6212:tid 348] AH00418: Parent: Created child process 4720
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 4720:tid 476] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 14:30:35.769130 2017] [mpm_winnt:notice] [pid 6212:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 14:30:37.800418 2017] [mpm_winnt:notice] [pid 4720:tid 476] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 14:30:37.878463 2017] [mpm_winnt:notice] [pid 6212:tid 348] AH00430: Parent: Child process 4720 exited successfully.
+[Sun Oct 22 21:18:20.416142 2017] [mpm_winnt:notice] [pid 5472:tid 336] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 21:18:20.416142 2017] [mpm_winnt:notice] [pid 5472:tid 336] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 21:18:20.416142 2017] [core:notice] [pid 5472:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 21:18:20.416142 2017] [mpm_winnt:notice] [pid 5472:tid 336] AH00418: Parent: Created child process 4684
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 4684:tid 444] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 21:18:49.777725 2017] [wsgi:error] [pid 4684:tid 952] [client 127.0.0.1:9895] Attempt to invoke directory as WSGI application: C:/Users/lzm/PycharmProjects/backend2/backend2/
+[Sun Oct 22 21:18:58.606002 2017] [mpm_winnt:notice] [pid 5472:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 21:19:00.637291 2017] [mpm_winnt:notice] [pid 4684:tid 444] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 21:19:01.199786 2017] [mpm_winnt:notice] [pid 5472:tid 336] AH00430: Parent: Child process 4684 exited successfully.
+[Sun Oct 22 21:20:09.356794 2017] [mpm_winnt:notice] [pid 4740:tid 336] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 21:20:09.356794 2017] [mpm_winnt:notice] [pid 4740:tid 336] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 21:20:09.356794 2017] [core:notice] [pid 4740:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 21:20:09.356794 2017] [mpm_winnt:notice] [pid 4740:tid 336] AH00418: Parent: Created child process 3236
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 3236:tid 448] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 21:20:13.481843 2017] [wsgi:error] [pid 3236:tid 952] [client 127.0.0.1:9900] Attempt to invoke directory as WSGI application: C:/Users/lzm/PycharmProjects/backend2/backend2/
+[Sun Oct 22 21:20:55.169931 2017] [mpm_winnt:notice] [pid 4740:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 21:20:57.201205 2017] [mpm_winnt:notice] [pid 3236:tid 448] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 21:20:57.279254 2017] [mpm_winnt:notice] [pid 4740:tid 336] AH00430: Parent: Child process 3236 exited successfully.
+[Sun Oct 22 21:20:59.826156 2017] [mpm_winnt:notice] [pid 7176:tid 368] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 21:20:59.826156 2017] [mpm_winnt:notice] [pid 7176:tid 368] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 21:20:59.826156 2017] [core:notice] [pid 7176:tid 368] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 21:20:59.826156 2017] [mpm_winnt:notice] [pid 7176:tid 368] AH00418: Parent: Created child process 3720
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 3720:tid 480] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 21:21:02.716834 2017] [wsgi:error] [pid 3720:tid 948] [client 127.0.0.1:9908] Attempt to invoke directory as WSGI application: C:/Users/lzm/PycharmProjects/backend2/backend2/
+[Sun Oct 22 21:25:32.549562 2017] [mpm_winnt:notice] [pid 7176:tid 368] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 21:25:34.580900 2017] [mpm_winnt:notice] [pid 3720:tid 480] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 21:25:34.674577 2017] [mpm_winnt:notice] [pid 7176:tid 368] AH00430: Parent: Child process 3720 exited successfully.
+[Sun Oct 22 21:35:06.917253 2017] [mpm_winnt:notice] [pid 2840:tid 336] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 21:35:06.917253 2017] [mpm_winnt:notice] [pid 2840:tid 336] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 21:35:06.917253 2017] [core:notice] [pid 2840:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 21:35:06.917253 2017] [mpm_winnt:notice] [pid 2840:tid 336] AH00418: Parent: Created child process 1792
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 1792:tid 440] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 21:35:13.745464 2017] [wsgi:error] [pid 1792:tid 948] [client 127.0.0.1:10386] Attempt to invoke directory as WSGI application: C:/Users/lzm/PycharmProjects/backend2/backend2/
+[Sun Oct 22 21:35:15.901736 2017] [wsgi:error] [pid 1792:tid 948] [client 127.0.0.1:10386] Attempt to invoke directory as WSGI application: C:/Users/lzm/PycharmProjects/backend2/backend2/
+[Sun Oct 22 21:35:20.886254 2017] [mpm_winnt:notice] [pid 2840:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 21:35:22.917474 2017] [mpm_winnt:notice] [pid 1792:tid 440] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 21:35:22.979950 2017] [mpm_winnt:notice] [pid 2840:tid 336] AH00430: Parent: Child process 1792 exited successfully.
+[Sun Oct 22 21:36:57.769721 2017] [mpm_winnt:notice] [pid 1660:tid 308] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 21:36:57.769721 2017] [mpm_winnt:notice] [pid 1660:tid 308] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 21:36:57.769721 2017] [core:notice] [pid 1660:tid 308] AH00094: Command line: 'httpd.exe -d C:/Apache24'
+[Sun Oct 22 21:36:57.769721 2017] [mpm_winnt:notice] [pid 1660:tid 308] AH00418: Parent: Created child process 2348
+Apache server interrupted...
+017] [mpm_winnt:notice] [pid 2348:tid 444] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 21:38:07.614373 2017] [mpm_winnt:notice] [pid 1660:tid 308] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+[Sun Oct 22 21:38:09.645574 2017] [mpm_winnt:notice] [pid 2348:tid 444] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 21:38:09.692512 2017] [mpm_winnt:notice] [pid 1660:tid 308] AH00430: Parent: Child process 2348 exited successfully.
+[Sun Oct 22 21:44:13.723659 2017] [mpm_winnt:notice] [pid 7996:tid 336] AH00455: Apache/2.4.28 (Win64) configured -- resuming normal operations
+[Sun Oct 22 21:44:13.723659 2017] [mpm_winnt:notice] [pid 7996:tid 336] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 21:44:13.723659 2017] [core:notice] [pid 7996:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 21:44:13.723659 2017] [mpm_winnt:notice] [pid 7996:tid 336] AH00418: Parent: Created child process 7380
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7380:tid 332] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 22:23:54.161930 2017] [mpm_winnt:notice] [pid 7996:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 22:23:56.193204 2017] [mpm_winnt:notice] [pid 7380:tid 332] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 22:23:56.349404 2017] [mpm_winnt:notice] [pid 7996:tid 336] AH00430: Parent: Child process 7380 exited successfully.
+[Sun Oct 22 22:26:48.941940 2017] [mpm_winnt:notice] [pid 2200:tid 348] AH00455: Apache/2.4.28 (Win64) configured -- resuming normal operations
+[Sun Oct 22 22:26:48.941940 2017] [mpm_winnt:notice] [pid 2200:tid 348] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 22:26:48.941940 2017] [core:notice] [pid 2200:tid 348] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 22:26:48.941940 2017] [mpm_winnt:notice] [pid 2200:tid 348] AH00418: Parent: Created child process 7776
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7776:tid 332] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 22:27:11.676674 2017] [mpm_winnt:notice] [pid 2200:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 22:27:13.707948 2017] [mpm_winnt:notice] [pid 7776:tid 332] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 22:27:13.754750 2017] [mpm_winnt:notice] [pid 2200:tid 348] AH00430: Parent: Child process 7776 exited successfully.
+[Sun Oct 22 22:27:47.274126 2017] [mpm_winnt:notice] [pid 7268:tid 344] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 22:27:47.274126 2017] [mpm_winnt:notice] [pid 7268:tid 344] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 22:27:47.274126 2017] [core:notice] [pid 7268:tid 344] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 22:27:47.274126 2017] [mpm_winnt:notice] [pid 7268:tid 344] AH00418: Parent: Created child process 7208
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7208:tid 456] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 22:31:01.202861 2017] [mpm_winnt:notice] [pid 7268:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 22:31:10.781041 2017] [mpm_winnt:notice] [pid 7208:tid 456] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 22:33:33.691089 2017] [core:warn] [pid 7588:tid 340] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 22 22:33:33.691089 2017] [mpm_winnt:notice] [pid 7588:tid 340] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 22:33:33.691089 2017] [mpm_winnt:notice] [pid 7588:tid 340] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 22:33:33.691089 2017] [core:notice] [pid 7588:tid 340] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 22:33:33.691089 2017] [mpm_winnt:notice] [pid 7588:tid 340] AH00418: Parent: Created child process 6288
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6288:tid 440] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 22:34:22.051007 2017] [mpm_winnt:notice] [pid 7588:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 22:34:24.082302 2017] [mpm_winnt:notice] [pid 6288:tid 440] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 22:34:24.207285 2017] [mpm_winnt:notice] [pid 7588:tid 340] AH00430: Parent: Child process 6288 exited successfully.
+[Sun Oct 22 22:38:46.436375 2017] [mpm_winnt:notice] [pid 7524:tid 356] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 22:38:46.436375 2017] [mpm_winnt:notice] [pid 7524:tid 356] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 22:38:46.436375 2017] [core:notice] [pid 7524:tid 356] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 22:38:46.452000 2017] [mpm_winnt:notice] [pid 7524:tid 356] AH00418: Parent: Created child process 6612
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6612:tid 256] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103] Internal Server Error: /\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103] Traceback (most recent call last):\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\exception.py", line 41, in inner\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]     response = get_response(request)\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\base.py", line 217, in _get_response\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]     response = self.process_exception_by_middleware(e, request)\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\base.py", line 215, in _get_response\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]     response = response.render()\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 107, in render\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]     self.content = self.rendered_content\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 82, in rendered_content\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]     template = self.resolve_template(self.template_name)\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 64, in resolve_template\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]     return select_template(template, using=self.using)\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\loader.py", line 53, in select_template\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103]     raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)\r
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103] django.template.exceptions.TemplateDoesNotExist: index.html
+[Sun Oct 22 22:39:10.358542 2017] [wsgi:error] [pid 6612:tid 948] [client 59.66.132.47:11103] \r
+[Sun Oct 22 22:41:33.596526 2017] [mpm_winnt:notice] [pid 7524:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 22:41:35.627882 2017] [mpm_winnt:notice] [pid 6612:tid 256] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 22:41:35.799679 2017] [mpm_winnt:notice] [pid 7524:tid 356] AH00430: Parent: Child process 6612 exited successfully.
+[Sun Oct 22 22:42:45.833658 2017] [mpm_winnt:notice] [pid 7740:tid 348] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 22:42:45.833658 2017] [mpm_winnt:notice] [pid 7740:tid 348] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 22:42:45.833658 2017] [core:notice] [pid 7740:tid 348] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 22:42:45.833658 2017] [mpm_winnt:notice] [pid 7740:tid 348] AH00418: Parent: Created child process 6700
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6700:tid 448] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 22:43:14.599654 2017] [wsgi:error] [pid 6700:tid 952] [client 59.66.132.47:11116] Target WSGI script not found or unable to stat: E:/python/mysite/mysite/mysitewsgi.py
+[Sun Oct 22 22:43:41.912468 2017] [wsgi:error] [pid 6700:tid 952] [client 59.66.132.47:11117] Target WSGI script not found or unable to stat: E:/python/mysite/mysite/mysitewsgi.py
+[Sun Oct 22 22:43:46.521915 2017] [wsgi:error] [pid 6700:tid 952] [client 59.66.132.47:11117] Target WSGI script not found or unable to stat: E:/python/mysite/mysite/mysitewsgi.py
+[Sun Oct 22 22:44:21.037967 2017] [wsgi:error] [pid 6700:tid 952] [client 59.66.132.47:11118] Target WSGI script not found or unable to stat: E:/python/mysite/mysite/mysitewsgi.py
+[Sun Oct 22 22:44:55.147808 2017] [mpm_winnt:notice] [pid 7740:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 22:44:57.179086 2017] [mpm_winnt:notice] [pid 6700:tid 448] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 22:44:57.257128 2017] [mpm_winnt:notice] [pid 7740:tid 348] AH00430: Parent: Child process 6700 exited successfully.
+[Sun Oct 22 22:45:01.866558 2017] [mpm_winnt:notice] [pid 7404:tid 344] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 22:45:01.866558 2017] [mpm_winnt:notice] [pid 7404:tid 344] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 22:45:01.866558 2017] [core:notice] [pid 7404:tid 344] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 22:45:01.866558 2017] [mpm_winnt:notice] [pid 7404:tid 344] AH00418: Parent: Created child process 2400
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 2400:tid 468] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 22:45:08.335387 2017] [wsgi:error] [pid 2400:tid 948] [client 59.66.132.47:11119] Target WSGI script not found or unable to stat: E:/python/mysite/mysite/mysitewsgi.py
+[Sun Oct 22 22:45:31.837552 2017] [wsgi:error] [pid 2400:tid 948] [client 59.66.132.47:11120] Target WSGI script not found or unable to stat: E:/python/mysite/mysite/mysitewsgi.py
+[Sun Oct 22 22:46:38.588376 2017] [mpm_winnt:notice] [pid 7404:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 22:46:40.619704 2017] [mpm_winnt:notice] [pid 2400:tid 468] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 22:46:40.682138 2017] [mpm_winnt:notice] [pid 7404:tid 344] AH00430: Parent: Child process 2400 exited successfully.
+[Sun Oct 22 22:46:43.010298 2017] [mpm_winnt:notice] [pid 6324:tid 360] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 22:46:43.010298 2017] [mpm_winnt:notice] [pid 6324:tid 360] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 22:46:43.010298 2017] [core:notice] [pid 6324:tid 360] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 22:46:43.010298 2017] [mpm_winnt:notice] [pid 6324:tid 360] AH00418: Parent: Created child process 980
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 980:tid 464] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 22:47:25.995253 2017] [mpm_winnt:notice] [pid 6324:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 22:47:28.026527 2017] [mpm_winnt:notice] [pid 980:tid 464] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 22:47:28.135827 2017] [mpm_winnt:notice] [pid 6324:tid 360] AH00430: Parent: Child process 980 exited successfully.
+[Sun Oct 22 22:47:31.385863 2017] [mpm_winnt:notice] [pid 5560:tid 312] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 22:47:31.385863 2017] [mpm_winnt:notice] [pid 5560:tid 312] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 22:47:31.385863 2017] [core:notice] [pid 5560:tid 312] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 22:47:31.385863 2017] [mpm_winnt:notice] [pid 5560:tid 312] AH00418: Parent: Created child process 5612
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 5612:tid 440] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124] Internal Server Error: /\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124] Traceback (most recent call last):\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\exception.py", line 41, in inner\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]     response = get_response(request)\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\base.py", line 217, in _get_response\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]     response = self.process_exception_by_middleware(e, request)\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\base.py", line 215, in _get_response\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]     response = response.render()\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 107, in render\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]     self.content = self.rendered_content\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 82, in rendered_content\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]     template = self.resolve_template(self.template_name)\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 64, in resolve_template\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]     return select_template(template, using=self.using)\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\loader.py", line 53, in select_template\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124]     raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)\r
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124] django.template.exceptions.TemplateDoesNotExist: index.html
+[Sun Oct 22 22:47:39.979717 2017] [wsgi:error] [pid 5612:tid 952] [client 59.66.132.47:11124] \r
+[Sun Oct 22 23:28:26.229878 2017] [mpm_winnt:notice] [pid 5560:tid 312] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 23:28:28.261153 2017] [mpm_winnt:notice] [pid 5612:tid 440] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 23:28:28.526729 2017] [mpm_winnt:notice] [pid 5560:tid 312] AH00430: Parent: Child process 5612 exited successfully.
+[Sun Oct 22 23:28:39.526851 2017] [mpm_winnt:notice] [pid 7848:tid 340] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 23:28:39.526851 2017] [mpm_winnt:notice] [pid 7848:tid 340] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 23:28:39.526851 2017] [core:notice] [pid 7848:tid 340] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 23:28:39.526851 2017] [mpm_winnt:notice] [pid 7848:tid 340] AH00418: Parent: Created child process 7840
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7840:tid 440] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986] Internal Server Error: /\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986] Traceback (most recent call last):\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\exception.py", line 41, in inner\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]     response = get_response(request)\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\base.py", line 217, in _get_response\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]     response = self.process_exception_by_middleware(e, request)\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\core\\handlers\\base.py", line 215, in _get_response\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]     response = response.render()\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 107, in render\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]     self.content = self.rendered_content\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 82, in rendered_content\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]     template = self.resolve_template(self.template_name)\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\response.py", line 64, in resolve_template\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]     return select_template(template, using=self.using)\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]   File "c:\\users\\lzm\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\django\\template\\loader.py", line 53, in select_template\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986]     raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)\r
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986] django.template.exceptions.TemplateDoesNotExist: index.html
+[Sun Oct 22 23:28:45.653328 2017] [wsgi:error] [pid 7840:tid 952] [client 59.66.132.47:11986] \r
+[Sun Oct 22 23:37:11.589445 2017] [mpm_winnt:notice] [pid 7848:tid 340] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 23:37:13.620720 2017] [mpm_winnt:notice] [pid 7840:tid 440] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 23:37:13.839451 2017] [mpm_winnt:notice] [pid 7848:tid 340] AH00430: Parent: Child process 7840 exited successfully.
+[Sun Oct 22 23:37:59.297529 2017] [mpm_winnt:notice] [pid 7700:tid 312] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 23:37:59.297529 2017] [mpm_winnt:notice] [pid 7700:tid 312] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 23:37:59.297529 2017] [core:notice] [pid 7700:tid 312] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 23:37:59.297529 2017] [mpm_winnt:notice] [pid 7700:tid 312] AH00418: Parent: Created child process 5004
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 5004:tid 448] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 23:38:21.143932 2017] [wsgi:error] [pid 5004:tid 940] [client 59.66.132.47:12087] Not Found: /iview2.ico\r
+[Sun Oct 22 23:38:33.614296 2017] [mpm_winnt:notice] [pid 7700:tid 312] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 23:38:35.645621 2017] [mpm_winnt:notice] [pid 5004:tid 448] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 23:38:35.817433 2017] [mpm_winnt:notice] [pid 7700:tid 312] AH00430: Parent: Child process 5004 exited successfully.
+[Sun Oct 22 23:39:45.452021 2017] [mpm_winnt:notice] [pid 3068:tid 336] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Sun Oct 22 23:39:45.452021 2017] [mpm_winnt:notice] [pid 3068:tid 336] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Sun Oct 22 23:39:45.452021 2017] [core:notice] [pid 3068:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sun Oct 22 23:39:45.452021 2017] [mpm_winnt:notice] [pid 3068:tid 336] AH00418: Parent: Created child process 6772
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6772:tid 4] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 22 23:40:41.144169 2017] [mpm_winnt:notice] [pid 3068:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Oct 22 23:40:43.175446 2017] [mpm_winnt:notice] [pid 6772:tid 4] AH00364: Child: All worker threads have exited.
+[Sun Oct 22 23:40:43.409742 2017] [mpm_winnt:notice] [pid 3068:tid 336] AH00430: Parent: Child process 6772 exited successfully.
+[Mon Oct 23 00:05:58.434403 2017] [mpm_winnt:notice] [pid 6420:tid 260] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 23 00:05:58.481333 2017] [mpm_winnt:notice] [pid 6420:tid 260] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 23 00:05:58.481333 2017] [core:notice] [pid 6420:tid 260] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 23 00:05:58.481333 2017] [mpm_winnt:notice] [pid 6420:tid 260] AH00418: Parent: Created child process 1724
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 1724:tid 448] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 23 00:13:13.317990 2017] [mpm_winnt:notice] [pid 6420:tid 260] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 23 00:13:15.349267 2017] [mpm_winnt:notice] [pid 1724:tid 448] AH00364: Child: All worker threads have exited.
+[Mon Oct 23 00:13:15.599189 2017] [mpm_winnt:notice] [pid 6420:tid 260] AH00430: Parent: Child process 1724 exited successfully.
+[Mon Oct 23 00:13:19.271106 2017] [mpm_winnt:notice] [pid 7724:tid 300] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 23 00:13:19.286733 2017] [mpm_winnt:notice] [pid 7724:tid 300] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 23 00:13:19.286733 2017] [core:notice] [pid 7724:tid 300] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 23 00:13:19.286733 2017] [mpm_winnt:notice] [pid 7724:tid 300] AH00418: Parent: Created child process 7996
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7996:tid 428] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 23 00:13:43.240722 2017] [wsgi:error] [pid 7996:tid 932] [client 127.0.0.1:12637] Not Found: /iview2.ico\r
+[Mon Oct 23 00:14:30.650649 2017] [wsgi:error] [pid 7996:tid 932] [client 127.0.0.1:12648] build\r, referer: http://127.0.0.1:8080/
+[Mon Oct 23 00:14:30.650649 2017] [wsgi:error] [pid 7996:tid 932] [client 127.0.0.1:12648] b'{"name":"","date":"","number":"","money":"","time":"","desc":"","dialog":false}'\r, referer: http://127.0.0.1:8080/
+[Mon Oct 23 00:17:58.834865 2017] [mpm_winnt:notice] [pid 7724:tid 300] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 23 00:18:00.866094 2017] [mpm_winnt:notice] [pid 7996:tid 428] AH00364: Child: All worker threads have exited.
+[Mon Oct 23 00:18:01.006688 2017] [mpm_winnt:notice] [pid 7724:tid 300] AH00430: Parent: Child process 7996 exited successfully.
+[Mon Oct 23 09:38:01.882203 2017] [mpm_winnt:notice] [pid 7592:tid 344] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 23 09:38:01.944696 2017] [mpm_winnt:notice] [pid 7592:tid 344] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 23 09:38:01.944696 2017] [core:notice] [pid 7592:tid 344] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 23 09:38:01.944696 2017] [mpm_winnt:notice] [pid 7592:tid 344] AH00418: Parent: Created child process 948
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 948:tid 456] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 23 09:38:50.840637 2017] [wsgi:error] [pid 948:tid 680] [client 127.0.0.1:13017] Not Found: /iview2.ico\r
+[Mon Oct 23 09:40:07.224303 2017] [mpm_winnt:notice] [pid 7592:tid 344] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 23 09:40:09.255654 2017] [mpm_winnt:notice] [pid 948:tid 456] AH00364: Child: All worker threads have exited.
+[Mon Oct 23 09:40:09.489952 2017] [mpm_winnt:notice] [pid 7592:tid 344] AH00430: Parent: Child process 948 exited successfully.
+[Mon Oct 23 09:40:16.161908 2017] [mpm_winnt:notice] [pid 7852:tid 304] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 23 09:40:16.161908 2017] [mpm_winnt:notice] [pid 7852:tid 304] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 23 09:40:16.161908 2017] [core:notice] [pid 7852:tid 304] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 23 09:40:16.161908 2017] [mpm_winnt:notice] [pid 7852:tid 304] AH00418: Parent: Created child process 984
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 984:tid 256] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 23 09:40:23.210815 2017] [wsgi:error] [pid 984:tid 944] [client 59.66.132.47:13067] Not Found: /iview2.ico\r
+[Mon Oct 23 09:41:44.713262 2017] [mpm_winnt:notice] [pid 7852:tid 304] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 23 09:41:46.744538 2017] [mpm_winnt:notice] [pid 984:tid 256] AH00364: Child: All worker threads have exited.
+[Mon Oct 23 09:41:46.885111 2017] [mpm_winnt:notice] [pid 7852:tid 304] AH00430: Parent: Child process 984 exited successfully.
+[Mon Oct 23 09:41:49.728868 2017] [mpm_winnt:notice] [pid 5356:tid 336] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 23 09:41:49.728868 2017] [mpm_winnt:notice] [pid 5356:tid 336] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 23 09:41:49.728868 2017] [core:notice] [pid 5356:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 23 09:41:49.728868 2017] [mpm_winnt:notice] [pid 5356:tid 336] AH00418: Parent: Created child process 5484
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 5484:tid 460] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 23 09:41:55.682064 2017] [wsgi:error] [pid 5484:tid 952] [client 59.66.132.47:13082] Not Found: /static/css/static/img/bg.c4fc6ab.jpg\r, referer: http://59.66.132.47:8000/static/css/app.8063089e1facf8147def3b889e3a8cf7.css
+[Mon Oct 23 09:41:56.260196 2017] [wsgi:error] [pid 5484:tid 952] [client 59.66.132.47:13082] Not Found: /static/css/static/fonts/ionicons.24712f6.ttf\r, referer: http://59.66.132.47:8000/static/css/app.8063089e1facf8147def3b889e3a8cf7.css
+[Mon Oct 23 09:41:56.275822 2017] [wsgi:error] [pid 5484:tid 952] [client 59.66.132.47:13082] Not Found: /static/css/static/fonts/ionicons.05acfdb.woff\r, referer: http://59.66.132.47:8000/static/css/app.8063089e1facf8147def3b889e3a8cf7.css
+[Mon Oct 23 09:45:01.343856 2017] [wsgi:error] [pid 5484:tid 952] [client 59.66.132.47:13092] Not Found: /static/img/user.5203b74.jpg\r, referer: http://59.66.132.47:8000/
+[Mon Oct 23 09:45:16.955088 2017] [wsgi:error] [pid 5484:tid 952] [client 59.66.132.47:13106] Not Found: /static/js/vendor.56ba03ebaedf4829c302.js.map\r
+[Mon Oct 23 09:47:58.303266 2017] [mpm_winnt:notice] [pid 5356:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 23 09:48:00.334540 2017] [mpm_winnt:notice] [pid 5484:tid 460] AH00364: Child: All worker threads have exited.
+[Mon Oct 23 09:48:00.459458 2017] [mpm_winnt:notice] [pid 5356:tid 336] AH00430: Parent: Child process 5484 exited successfully.
+[Mon Oct 23 09:48:09.791357 2017] [mpm_winnt:notice] [pid 1852:tid 328] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 23 09:48:09.791357 2017] [mpm_winnt:notice] [pid 1852:tid 328] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 23 09:48:09.791357 2017] [core:notice] [pid 1852:tid 328] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 23 09:48:09.791357 2017] [mpm_winnt:notice] [pid 1852:tid 328] AH00418: Parent: Created child process 7084
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7084:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 23 09:48:18.588338 2017] [wsgi:error] [pid 7084:tid 952] [client 127.0.0.1:13109] Not Found: /testdb\r
+[Mon Oct 23 09:48:21.416502 2017] [wsgi:error] [pid 7084:tid 952] [client 127.0.0.1:13109] Not Found: /static/js/manifest.18cbe90252c47f96c45f.js\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:48:21.432142 2017] [wsgi:error] [pid 7084:tid 948] [client 127.0.0.1:13110] Not Found: /static/js/vendor.56ba03ebaedf4829c302.js\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:48:21.432142 2017] [wsgi:error] [pid 7084:tid 940] [client 127.0.0.1:13111] Not Found: /static/js/app.8f0333c5dd31329ec5e2.js\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:48:21.432142 2017] [wsgi:error] [pid 7084:tid 952] [client 127.0.0.1:13109] Not Found: /static/js/app.8f0333c5dd31329ec5e2.js\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:48:21.494639 2017] [wsgi:error] [pid 7084:tid 952] [client 127.0.0.1:13109] Not Found: /static/css/app.8063089e1facf8147def3b889e3a8cf7.css\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:48:21.525877 2017] [wsgi:error] [pid 7084:tid 952] [client 127.0.0.1:13109] Not Found: /iview2.ico\r
+[Mon Oct 23 09:49:19.704727 2017] [wsgi:error] [pid 7084:tid 952] [client 127.0.0.1:13116] Not Found: /static/css/app.8063089e1facf8147def3b889e3a8cf7.css\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:49:19.720373 2017] [wsgi:error] [pid 7084:tid 940] [client 127.0.0.1:13117] Not Found: /static/js/manifest.18cbe90252c47f96c45f.js\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:49:19.720373 2017] [wsgi:error] [pid 7084:tid 948] [client 127.0.0.1:13118] Not Found: /static/js/vendor.56ba03ebaedf4829c302.js\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:49:19.720373 2017] [wsgi:error] [pid 7084:tid 932] [client 127.0.0.1:13119] Not Found: /static/js/app.8f0333c5dd31329ec5e2.js\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:49:19.735977 2017] [wsgi:error] [pid 7084:tid 952] [client 127.0.0.1:13116] Not Found: /static/js/app.8f0333c5dd31329ec5e2.js\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:49:45.316260 2017] [wsgi:error] [pid 7084:tid 952] [client 127.0.0.1:13120] Not Found: /static/css/app.8063089e1facf8147def3b889e3a8cf7.css\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:49:45.316260 2017] [wsgi:error] [pid 7084:tid 940] [client 127.0.0.1:13121] Not Found: /static/js/manifest.18cbe90252c47f96c45f.js\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:49:45.331882 2017] [wsgi:error] [pid 7084:tid 932] [client 127.0.0.1:13123] Not Found: /static/js/app.8f0333c5dd31329ec5e2.js\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:49:45.331882 2017] [wsgi:error] [pid 7084:tid 948] [client 127.0.0.1:13122] Not Found: /static/js/vendor.56ba03ebaedf4829c302.js\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:49:45.347507 2017] [wsgi:error] [pid 7084:tid 952] [client 127.0.0.1:13120] Not Found: /static/js/app.8f0333c5dd31329ec5e2.js\r, referer: http://127.0.0.1:8000/
+[Mon Oct 23 09:49:49.224931 2017] [mpm_winnt:notice] [pid 1852:tid 328] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 23 09:49:51.256134 2017] [mpm_winnt:notice] [pid 7084:tid 444] AH00364: Child: All worker threads have exited.
+[Mon Oct 23 09:49:51.396758 2017] [mpm_winnt:notice] [pid 1852:tid 328] AH00430: Parent: Child process 7084 exited successfully.
+[Mon Oct 23 09:50:07.508449 2017] [mpm_winnt:notice] [pid 3540:tid 348] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 23 09:50:07.508449 2017] [mpm_winnt:notice] [pid 3540:tid 348] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 23 09:50:07.508449 2017] [core:notice] [pid 3540:tid 348] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 23 09:50:07.508449 2017] [mpm_winnt:notice] [pid 3540:tid 348] AH00418: Parent: Created child process 8156
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 8156:tid 456] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 23 09:54:19.439270 2017] [mpm_winnt:notice] [pid 3540:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 23 09:54:21.457465 2017] [mpm_winnt:notice] [pid 8156:tid 456] AH00364: Child: All worker threads have exited.
+[Mon Oct 23 09:54:21.598013 2017] [mpm_winnt:notice] [pid 3540:tid 348] AH00430: Parent: Child process 8156 exited successfully.
+[Mon Oct 23 10:02:43.105855 2017] [mpm_winnt:notice] [pid 7684:tid 332] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 23 10:02:43.105855 2017] [mpm_winnt:notice] [pid 7684:tid 332] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 23 10:02:43.105855 2017] [core:notice] [pid 7684:tid 332] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 23 10:02:43.121499 2017] [mpm_winnt:notice] [pid 7684:tid 332] AH00418: Parent: Created child process 1380
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 1380:tid 432] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 23 10:03:01.619116 2017] [mpm_winnt:notice] [pid 7684:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 23 10:03:03.650390 2017] [mpm_winnt:notice] [pid 1380:tid 432] AH00364: Child: All worker threads have exited.
+[Mon Oct 23 10:03:03.728439 2017] [mpm_winnt:notice] [pid 7684:tid 332] AH00430: Parent: Child process 1380 exited successfully.
+[Mon Oct 23 10:03:19.761392 2017] [mpm_winnt:notice] [pid 6908:tid 336] AH00455: Apache/2.4.28 (Win64) mod_wsgi/4.5.19 Python/3.5 configured -- resuming normal operations
+[Mon Oct 23 10:03:19.761392 2017] [mpm_winnt:notice] [pid 6908:tid 336] AH00456: Apache Lounge VC14 Server built: Oct  4 2017 12:12:53
+[Mon Oct 23 10:03:19.761392 2017] [core:notice] [pid 6908:tid 336] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 23 10:03:19.761392 2017] [mpm_winnt:notice] [pid 6908:tid 336] AH00418: Parent: Created child process 1888
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 1888:tid 432] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 23 10:08:38.556394 2017] [mpm_winnt:notice] [pid 6908:tid 336] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 23 10:08:40.587668 2017] [mpm_winnt:notice] [pid 1888:tid 432] AH00364: Child: All worker threads have exited.
+[Mon Oct 23 10:08:40.775171 2017] [mpm_winnt:notice] [pid 6908:tid 336] AH00430: Parent: Child process 1888 exited successfully.
